@@ -14,6 +14,8 @@
 
 - 🏅 Explore My Achievements **https://www.cloudskillsboost.google/profile/badges**
 
+- 📄 View My Resume **https://drive.google.com/drive/quota**
+
 - ⚡ Fun fact **enthusiastic**
 
 <h3 align="left">Connect with me:</h3>
