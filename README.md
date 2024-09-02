@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **shalupatidar22@gmail.com**
 
+- 🏅 Explore My Achievements **https://www.cloudskillsboost.google/profile/badges**
+
 - ⚡ Fun fact **enthusiastic**
 
 <h3 align="left">Connect with me:</h3>
