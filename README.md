@@ -20,6 +20,9 @@
 
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalupatidar22" alt="shalupatidar22" /></a> </p>
 
+
+[![An image of @shalupatidar22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shalupatidar22)](https://holopin.io/@shalupatidar22)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shalu-patidar-385152254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalu-patidar-385152254" height="30" width="40" /></a>
